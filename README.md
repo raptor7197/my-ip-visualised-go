@@ -1,8 +1,8 @@
 # IP Visualizer TUI
 
 A beautiful, terminal-based IP address visualizer written in Go. This tool fetches your public IP information and displays it alongside a dot-matrix world map with your location highlighted.
+<img width="1099" height="457" alt="image" src="https://github.com/user-attachments/assets/05e45361-8cb3-431d-93a5-fbc0a11162ba" />
 
-![Demo](https://via.placeholder.com/800x400?text=IP+Visualizer+TUI+Demo)
 
 ## Features
 
