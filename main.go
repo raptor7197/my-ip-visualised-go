@@ -149,7 +149,7 @@ func (m model) View() string {
 %s %s
 %s %f, %f
 `,
-			titleStyle.Render(" IP VISUALIZER "),
+			titleStyle.Render(" Visualise your IP address "),
 			labelStyle.Render("IP Address:"), info.Query,
 			labelStyle.Render("ISP:       "), info.Isp,
 			labelStyle.Render("Location:  "), info.City, info.Country,
